@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, JavaScript
+- **Languages**: Python, JavaScript, CSS and HTML
 - **Frameworks**: React
 - **Tools**: Git, VS Code
 
