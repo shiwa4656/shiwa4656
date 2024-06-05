@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 ## 🏆 Achievements
 
-- **Open Source Contributions**: Contributed to an open source project for my school which non-profit organisation, including [https://github.com/NoroffFEU/musikkforandrerliv.no].
+- **Open Source Contributions**: Contributed to an open source project for my school which we were helpiing a non-profit organisation, i was apart of the QA team.  Check it out here : [https://github.com/NoroffFEU/musikkforandrerliv.no].
 
 ## 📫 Get in Touch
 
