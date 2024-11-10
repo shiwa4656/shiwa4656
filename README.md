@@ -35,7 +35,7 @@ This project is a jacket store page, i used HTML and CSS while used figma as the
 This was aproject i did to build  a muesum page around the area i live (Imaginative). I used HTML, CSS and AdobeXD as design tool. Check the live project here : https://shiwa4656.github.io/semester_project_1/
 
 ### [Blog posts page](https://github.com/NoroffFEU/FED1-PE1-shiwa4656)
-This is a blog post website, it has an authentication, where users can regisster under specific way. The admin can post, edit and delete the posts. It has a good UI design when it comes to clients who are reading or the owner who does not need any knowledge of coding, just login and a way to post by clicking simple buttons. Here is the live project, and check out to read the blogs. Live project : https://665628dfad64be6d0dc5ef4f--chipper-madeleine-a22f07.netlify.app/
+This is a blog post website, it has an authentication, where users can regisster under specific way. The admin can post, edit and delete the posts. It has a good UI design when it comes to clients who are reading or the owner who does not need any knowledge of coding, just login and a way to post by clicking simple buttons. Here is the live project, and check out to read the blogs. Live project : https://blogtechpost.netlify.app/
 
 
 
