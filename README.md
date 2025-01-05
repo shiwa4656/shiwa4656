@@ -37,6 +37,10 @@ This was aproject i did to build  a muesum page around the area i live (Imaginat
 ### [Blog posts page](https://github.com/NoroffFEU/FED1-PE1-shiwa4656)
 This is a blog post website, it has an authentication, where users can regisster under specific way. The admin can post, edit and delete the posts. It has a good UI design when it comes to clients who are reading or the owner who does not need any knowledge of coding, just login and a way to post by clicking simple buttons. Here is the live project, and check out to read the blogs. Live project : https://blogtechpost.netlify.app/
 
+### [Auction site](https://github.com/shiwa4656/semesterProject2)
+This was aproject i did to build an Auction site, I have implemented CRU (Create, Read and  update) . I used HTML, TailwindCSS and Figma as design tool. Check the live project here : 
+https://auction-site16.netlify.app/
+
 
 
 
