@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 ## 🚀 Projects
 
-### [https://github.com/shiwa4656/reactCourseAssignment?tab=readme-ov-file)
+### [Ecommerce](https://github.com/shiwa4656/reactCourseAssignment?tab=readme-ov-file)
 This project is a store page, i used React, and TailwindCSS while used figma as the design tool, check the live project here : https://online-shop46.netlify.app/.
 
 ### [Museum web page](https://github.com/shiwa4656/semester_project_1)
