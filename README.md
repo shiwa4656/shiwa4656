@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 ## 🚀 Projects
 
-### [Jacket Page](https://github.com/shiwa4656/jacket2.0)
-This project is a jacket store page, i used HTML and CSS while used figma as the design tool, check the live project here : https://shiwa4656.github.io/jacket2.0/index.html.
+### [https://github.com/shiwa4656/reactCourseAssignment?tab=readme-ov-file)
+This project is a store page, i used React, and TailwindCSS while used figma as the design tool, check the live project here : https://online-shop46.netlify.app/.
 
 ### [Museum web page](https://github.com/shiwa4656/semester_project_1)
 This was aproject i did to build  a muesum page around the area i live (Imaginative). I used HTML, CSS and AdobeXD as design tool. Check the live project here : https://shiwa4656.github.io/semester_project_1/
