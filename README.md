@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 - **Email**: shiwalinkedln@gmail.com
 - **LinkedIn**:https://www.linkedin.com/in/shirwac-q-7297a8198/
-- **Website**: https://shiwa4656.github.io/PortfolioS/
+- **Website**: https://shirwac.netlify.app/
 
 
 
