@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shirwac 👋
 
-Welcome to my GitHub profile! I am a passionate software developer with expertise in various programming languages and technologies. Here you'll find some of the projects I've been working on, as well as some open source contributions.
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in various programming languages and technologies. Here, you'll find a selection of projects I've been working on, along with some open-source contributions. I have a strong interest in fintech, economics, AI, business, and data science. Currently, I'm pursuing a Bachelor's degree in Business, Economics, and Data Science at the Norwegian School of Economics.
 
 ## 🔧 Technologies & Tools
 
