@@ -31,11 +31,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ### [Ecommerce](https://github.com/shiwa4656/reactCourseAssignment?tab=readme-ov-file)
 This project is a store page, i used React, and TailwindCSS while used figma as the design tool, check the live project here : https://online-shop46.netlify.app/.
 
-### [Museum web page](https://github.com/shiwa4656/semester_project_1)
-This was aproject i did to build  a muesum page around the area i live (Imaginative). I used HTML, CSS and AdobeXD as design tool. Check the live project here : https://shiwa4656.github.io/semester_project_1/
-
+### [Holidaze - Booking Venue](https://github.com/shiwa4656/projectExam2)
+This was a project I did to build  a booking venue around the world. I used React, TailwindCSS, Vite and AdobeXD as design tool. Check the live project here : https://xnb.netlify.app/
 ### [Blog posts page](https://github.com/NoroffFEU/FED1-PE1-shiwa4656)
-This is a blog post website, it has an authentication, where users can regisster under specific way. The admin can post, edit and delete the posts. It has a good UI design when it comes to clients who are reading or the owner who does not need any knowledge of coding, just login and a way to post by clicking simple buttons. Here is the live project, and check out to read the blogs. Live project : https://blogtechpost.netlify.app/
+This is a blog post website, it has an authentication, where users can regisster under specific way. The admin can post, edit and delete the posts. It has a good UI design when it comes to clients who are reading or the owner who does not need any knowledge of coding, just login and a way to post by clicking simple buttons. Here is the live project, and check out to read the blogs. Live project https://xnb.netlify.app/https://blogtechpost.netlify.app/
 
 ### [Auction site](https://github.com/shiwa4656/semesterProject2)
 This was aproject i did to build an Auction site, I have implemented CRU (Create, Read and  update) . I used HTML, TailwindCSS and Figma as design tool. Check the live project here : 
