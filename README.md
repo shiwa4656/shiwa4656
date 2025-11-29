@@ -10,9 +10,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - **Frameworks**: React, Express js, TailwindCSS, Vite, and Docker
 - **Tools**: Git, VS Code
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shiwa4656&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwa4656&layout=compact&hide_border=true)
+## 🚀 GitHub Performance
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-m34n.vercel.app/api?username=shiwa4656&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-m34n.vercel.app/api/top-langs/?username=shiwa4656&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+</p>
+
 
 ## 🏆 Achievements
 
