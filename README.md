@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, JavaScript, CSS and HTML
-- **Frameworks**: React, Express js, TailwindCSS, Vite, and Docker
+- **Frameworks**: React, Express js, TailwindCSS, Vite, Pandas, Numpy, Matplotlib, and Docker
 - **Tools**: Git, VS Code
 
 ## 🚀 GitHub Performance
