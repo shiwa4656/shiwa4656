@@ -39,6 +39,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 
 ## 🚀 Projects
+### [Tech1 Term paper](https://github.com/shiwa4656/Tech2_Term_Paper)
+This project was a term paper for our data analysis course, carried out with 2 other students, Ben and Filip, read more about the problem and the solution we provided in this repositry : https://github.com/shiwa4656/Tech2_Term_Paper
+
 
 ### [Ecommerce](https://github.com/shiwa4656/reactCourseAssignment?tab=readme-ov-file)
 This project is a store page, i used React, and TailwindCSS while used figma as the design tool, check the live project here : https://online-shop46.netlify.app/.
