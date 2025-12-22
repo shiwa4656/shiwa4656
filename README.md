@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 
 ## 🚀 Projects
-### [Tech1 Term paper](https://github.com/shiwa4656/Tech2_Term_Paper)
+### [Tech2 Term paper](https://github.com/shiwa4656/Tech2_Term_Paper)
 This project was a term paper for our data analysis course, carried out with 2 other students, Ben and Filip, read more about the problem and the solution we provided in this repositry : https://github.com/shiwa4656/Tech2_Term_Paper
 
 
