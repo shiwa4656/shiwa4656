@@ -13,18 +13,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## 🚀 GitHub Performance
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-m34n.vercel.app/api?username=shiwa4656&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="48%"
-    height="200"
-  />
-  <img
-    src="https://github-readme-stats-m34n.vercel.app/api/top-langs/?username=shiwa4656&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-    width="48%"
-    height="200"
-  />
-</p>
 
+<img
+height="180"
+src="https://github-readme-stats-m34n.vercel.app/api?username=shiwa4656&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats-m34n.vercel.app/api/top-langs/?username=shiwa4656&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+/>
+
+</p>
 
 ## 🏆 Achievements
 
